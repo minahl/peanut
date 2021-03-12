@@ -1,4 +1,4 @@
-# Test Project
+# Peanut Planting
 ## More peanuts please
 
 Peanut to go in the ground
